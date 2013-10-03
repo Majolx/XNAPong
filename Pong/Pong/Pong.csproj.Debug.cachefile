@@ -2,3 +2,7 @@ Content\res\img\background.xnb
 Content\res\img\ball.xnb
 Content\res\img\paddle.xnb
 Content\res\fnt\Score.xnb
+Content\res\snd\beeep.xnb
+Content\res\snd\peeep.xnb
+Content\res\snd\plop.xnb
+Content\res\fnt\PongFont.xnb
